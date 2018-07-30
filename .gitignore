@@ -1,0 +1,13 @@
+node_modules/
+.sass-cache/
+.idea/
+.tmp/
+public/*
+dist/
+npm-debug.log
+build/
+.eslintcache
+.DS_Store
+package-lock.json
+.vscode/
+
